@@ -1,0 +1,1 @@
+This is Splatx's first git project!
